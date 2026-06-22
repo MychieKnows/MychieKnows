@@ -18,12 +18,12 @@
      <br>
      <details>
         <summary>kins</summary>
-         <p style="color: #72bd4f"><b>Fan (ii), Taph (forsaken), Cosmo (dandys world)</b>, YinYang (ii), Red (df), Sibuxiang (fabulous beasts), Vee (dandys world), Phillip Pirrup/Pip (south park), Mime(htf) and Rainbow Dash (mlp),, ill add more if theyre on my mind im also sharing!!! idm if u kin the same characters, its like looking in a mirror wow</p>
+         <p style="color: #72bd4f"><b>Fan (ii), Taph (forsaken), Cosmo (dandys world)</b>, YinYang (ii), Red (df), Sibuxiang (fabulous beasts), Pursuer (Die Of Death) Vee (dandys world), Phillip Pirrup/Pip (south park), Mime(htf) and Rainbow Dash (mlp),, ill add more if theyre on my mind, <b>im also sharing!!!</b> idm if u kin the same characters, its like looking in a mirror wow</p>
      </details>
     <br>
      <details>
         <summary>byf</summary>
-         <p style="color: #72bd4f">i have basic boundaries, ???also dont be freaky unless ik you/close friends, i use emojis like a 40 year old (using emojis what they are used for such as laughing emoji for actually laughing.) but i assure you im NOT 40</p>
+         <p style="color: #72bd4f">basic DNI and boundaries, ???also dont be freaky unless ik you/close friends, i use emojis like a 40 year old (using emojis what they are used for such as laughing emoji for actually laughing.) however i assure you im NOT 40 and feel free to interact with me my username is mychie on all sites!</p>
      </details>
     </center>
 </body>
