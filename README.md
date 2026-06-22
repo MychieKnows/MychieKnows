@@ -9,7 +9,7 @@
      <a href="https://mychieknows.atabook.org/" align="center">sign my atabook</a>
      <br>
      <br>  
-     <img src="https://media.tenor.com/RIu6UqPYIxwAAAAC/vee-dandys-world-get-a-load-of-this-guy-meme.gif" alt="get a load of this guy" width="500" height="500">
+     <img src="https://media.tenor.com/RIu6UqPYIxwAAAAC/vee-dandys-world-get-a-load-of-this-guy-meme.gif" alt="get a load of this guy" width="300" height="300">
      <!--<h3 style="color: #72bd4f">i wanna change this one day,, also yah im a vee kinnie</h3>
      <p style="color: #72bd4f">what a secret, i dont tell this on other sites ⬆︎⬆︎⬆︎</p>-->
      <p style="color: #72bd4f">i go by <b>Mychie</b> and my real name <b>Gastri</b>, <b>they/any</b> I DONT CARW</p>
