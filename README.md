@@ -23,7 +23,7 @@
     <br>
      <details>
         <summary>byf</summary>
-         <p style="color: #72bd4f">i use emojis like a 40 year old (using emojis what they are used for such as laughing emoji for actually laughing.) but i assure you im NOT 40</p>
+         <p style="color: #72bd4f">i have basic boundaries, ???also dont be freaky unless ik you/close friends, i use emojis like a 40 year old (using emojis what they are used for such as laughing emoji for actually laughing.) but i assure you im NOT 40</p>
      </details>
     </center>
 </body>
