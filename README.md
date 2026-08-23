@@ -9,7 +9,7 @@
      <a href="https://mychieknows.atabook.org/" align="center">sign my atabook</a> ⸝⸝ <i>feeling</i> <a href="https://www.imood.com/users/MychieKnows"><img src="https://moods.imood.com/display/uname-MychieKnows/fg-FFFFFF/trans-1/imood.gif" alt="The current mood of MychieKnows at www.imood.com" border="0"></a>
      <br>
      <br>  
-     <img src="https://files.catbox.moe/fu8aix.jpg" alt="hi" width="500" height="400">
+     <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/125493844_6IjGelSJvWhpvc0.png?1786243214" alt="hi" width="500" height="400">
      <!--<h3 style="color: #72bd4f">i wanna change this one day,, also yah im a vee kinnie</h3>
      <p style="color: #72bd4f">what a secret, i dont tell this on other sites ⬆︎⬆︎⬆︎</p>-->
      <p align="center">i go by <b>Mychie</b> and my real name <b>Gastri</b>, <b>they/any</b> I DONT CARW</p>
