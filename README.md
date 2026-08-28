@@ -20,7 +20,7 @@
      </details>
      <details>
         <summary align="center">byf</summary>
-         <p>basic DNI(??? kinda i actually dont care my dni is very vague) and boundaries, ???also dont be freaky unless ik you/close friends, i use emojis like a 40 year old (using emojis what they are used for such as laughing emoji for actually laughing.) however i assure you im NOT 40,</p>
+         <p>basic DNI(??? kinda i actually dont care my dni is very vague) and boundaries,</p>
          <p>feel free to interact with me my username is mychieknows on all sites!</p>
      </details>
     </center>
