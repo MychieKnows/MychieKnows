@@ -10,9 +10,7 @@
      <br>
      <br>  
      <img src="https://yt3.ggpht.com/UvnhF1iqyuQ0imjrz-LQeBAlLJ7agXslKTksAJoIYUOhuTkfgDCRX4S4HVAHqaahNLuhO90KBHH3ng=s640-rw-nd-v1" alt="hi" width="500" height=auto>
-     <!--<h3 style="color: #72bd4f">i wanna change this one day,, also yah im a vee kinnie</h3>
-     <p style="color: #72bd4f">what a secret, i dont tell this on other sites ⬆︎⬆︎⬆︎</p>-->
-     <p align="center">i go by <b>Mychie</b> and my real name <b>Gastri</b>, <b>they/any</b> I DONT CARW</p>
+     <p align="center">i go by <b>Mychie</b> and my real name <b>Gastri</b>, <b>they/any</b></p>
      <p align="center">artist and animator or wtv i started coding out of boredom</p>
      <details>
         <summary align="center">kins</summary>
