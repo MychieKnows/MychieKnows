@@ -35,7 +35,7 @@
     <br>
     <br>
     <br>
-    <a href="https://github.com/MychieKnows/DiARY"><img src="https://github.com/MychieKnows/DiARY/blob/main/booknquill.webp?raw=true" width="50px" height="auto" align="center" title="diary"></a>
+    <a href="https://github.com/MychieKnows/DiARY"><img src="https://github.com/MychieKnows/DiARY/blob/main/booknquill.webp?raw=true" width="50px" height="auto" align="center" title="MY DiARY"></a>
     </center>
 </body>
 </html>
