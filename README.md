@@ -6,7 +6,8 @@
 </head>
 <body>
     <p align="center">
-     <a href="https://mychieknows.atabook.org/" align="center">sign my atabook</a> ⸝⸝ <i>feeling</i> <a href="https://www.imood.com/users/MychieKnows"><img src="https://moods.imood.com/display/uname-MychieKnows/fg-FFFFFF/trans-1/imood.gif" alt="The current mood of MychieKnows at www.imood.com" border="0"></a>
+     <img src="https://komarev.com/ghpvc/?username=MychieKnows&label=stalkers" alt="Profile views"/> ⸝⸝
+ <a href="https://mychieknows.atabook.org/" align="center">sign my atabook</a> ⸝⸝ <i>feeling</i> <a href="https://www.imood.com/users/MychieKnows"><img src="https://moods.imood.com/display/uname-MychieKnows/fg-FFFFFF/trans-1/imood.gif" alt="The current mood of MychieKnows at www.imood.com" border="0"></a>
      <br>
      <br>  
      <img src="https://yt3.ggpht.com/UvnhF1iqyuQ0imjrz-LQeBAlLJ7agXslKTksAJoIYUOhuTkfgDCRX4S4HVAHqaahNLuhO90KBHH3ng=s640-rw-nd-v1" alt="hi" width="500" height=auto title="uranus n neptune"> 
