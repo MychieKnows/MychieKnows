@@ -9,8 +9,10 @@
      <a href="https://mychieknows.atabook.org/" align="center">sign my atabook</a> ⸝⸝ <i>feeling</i> <a href="https://www.imood.com/users/MychieKnows"><img src="https://moods.imood.com/display/uname-MychieKnows/fg-FFFFFF/trans-1/imood.gif" alt="The current mood of MychieKnows at www.imood.com" border="0"></a>
      <br>
      <br>  
-     <img src="https://yt3.ggpht.com/UvnhF1iqyuQ0imjrz-LQeBAlLJ7agXslKTksAJoIYUOhuTkfgDCRX4S4HVAHqaahNLuhO90KBHH3ng=s640-rw-nd-v1" alt="hi" width="500" height=auto title="uranus n neptune">
-     <p align="center">i go by <b>Mychie</b> and my real name <b>Gastri</b>, <b>they/any</b></p>
+     <img src="https://yt3.ggpht.com/UvnhF1iqyuQ0imjrz-LQeBAlLJ7agXslKTksAJoIYUOhuTkfgDCRX4S4HVAHqaahNLuhO90KBHH3ng=s640-rw-nd-v1" alt="hi" width="500" height=auto title="uranus n neptune"> 
+        <br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gochi+Hand&duration=3000&color=93DFF6&center=true&width=435&lines=Uranus.+And+no%2C;it's+not+pronounced+Ur-anus%2C;it's+pronounced+Urine-us.;Many+planets;confuse+the+pronunciation" alt="Typing SVG" /></a> 
+    <p align="center">i go by <b>Mychie</b> and my real name <b>Gastri</b>, <b>they/any</b></p>
      <p align="center">artist and animator or wtv i started coding out of boredom</p>
      <details>
         <summary align="center">kins</summary>
