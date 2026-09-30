@@ -17,7 +17,7 @@
      <p align="center">artist and animator or wtv i started coding out of boredom</p>
      <details>
         <summary align="center">kins</summary>
-         <p><b>Taph (forsaken), Fan (ii), Cosmo (dandys world)</b>, Scourge (warrior cats), YinYang (ii), Red (df), Uranus (solarballs) Sibuxiang (fabulous beasts), Pursuer (Die Of Death), Phillip Pirrup/Pip (south park), Mime(htf) and Rainbow Dash (mlp),, ill add more if theyre on my mind, <b>im also sharing!!!</b> idm if u kin the same characters, its like looking in a mirror wow</p>
+         <p><b>Taph (forsaken), Fan (ii), Cosmo (dandys world)</b>, Scourge (warrior cats), YinYang (ii), Red (df), Uranus (solarballs) Bixie (fabulous beasts), Pursuer (Die Of Death), Phillip Pirrup/Pip (south park), Mime(htf) and Rainbow Dash (mlp),, ill add more if theyre on my mind, <b>im also sharing!!!</b> idm if u kin the same characters, its like looking in a mirror wow</p>
      </details>
      <details>
         <summary align="center">byf</summary>
