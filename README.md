@@ -26,19 +26,5 @@
      </details>
     <br>
     <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <a href=""><img src="https://raw.githubusercontent.com/MychieKnows/DiARY/refs/heads/main/userbox_meowmeow.gif" width="auto" height="auto" align="center" title="mewowew"></a>
-    </center>
 </body>
 </html>
